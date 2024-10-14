@@ -34,3 +34,6 @@
   grid-column-end: 4;
   grid-area: footer;
 }
+.item-2, .item-3{
+  background-color: antiquewhite;
+}

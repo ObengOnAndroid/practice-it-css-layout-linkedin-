@@ -4,7 +4,7 @@ This is the repository for the LinkedIn Learning course Practice It: CSS Layout.
 
 ![Learning Terraform][lil-thumbnail-url] 
 
-In this course, instructor Julia Dyck shows you how to create responsive web layouts that adapt to any screen size and provide a seamless user experience. Join Julia as she shows you how to design modular layouts using CSS grids and Flexbox, and adapt them to different screen widths using media queries. She provides an introduction to the basics of grid layouts, explains how to make your layouts responsive, and then guides you through the creation of a three-column and a twelve column layout.
+In thios course, instructor Julia Dyck shows you how to create responsive web layouts that adapt to any screen size and provide a seamless user experience. Join Julia as she shows you how to design modular layouts using CSS grids and Flexbox, and adapt them to different screen widths using media queries. She prvides an introduction to the basics of grid layouts, explains how to make your layouts responsive, and then guides you through the creation of a three-column and a twelve column layout.
 
 _See the readme file in the main branch for updated instructions and information._
 
