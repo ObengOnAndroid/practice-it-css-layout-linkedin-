@@ -3,9 +3,12 @@
   height: 100vh;
   grid-template-columns: repeat(3, 1fr);
   grid-template-rows: repeat(12, 1fr);
-  /* grid-template-rows: 0.5fr 2fr; */
-  gap: 5px;
-  grid-template-areas: "header header sidebar" "main main main" "footer footer footer";
+  /* grid-template-rows: 0.5fr 2fr 0.5fr ; */
+  gap: 1%;
+  grid-template-areas: 
+  "header header sidebar" 
+  "main main main" 
+  "footer footer footer";
 }
 
 .item-1 {
@@ -28,7 +31,9 @@
   grid-row-start: 3;
   grid-row-end: 10;
 }
-
+img{
+  max-width: 100%;
+}
 .item-4 {
   border: 1px solid pink;
   grid-area: footer;
